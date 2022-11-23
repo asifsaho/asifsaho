@@ -21,10 +21,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
-
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=asifsaho&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=asifsaho&layout=compact&langs_count=8&theme=algolia"/>|
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=asifsaho&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=asifsaho&theme=algolia"/>
 
