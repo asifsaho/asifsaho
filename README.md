@@ -22,11 +22,13 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=asifsaho&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=asifsaho&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
     
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=asifsaho&layout=compact&langs_count=8&theme=algolia"/>|
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=asifsaho&layout=compact&langs_count=8&theme=github_dark"/>|
     
-<img src="https://github-readme-stats.vercel.app/api?username=asifsaho&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=asifsaho&theme=blueberry_duo"/>
+<img src="https://github-readme-stats.vercel.app/api?username=asifsaho&&show_icons=true&count_private=true&theme=github_dark">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=asifsaho&theme=github_dark"/>
 
 ### 😜 Here's a Joke for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
