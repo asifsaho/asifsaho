@@ -35,6 +35,7 @@
 
 ### Connect with me
 
+<a href="https://asifsaho.me"><img src="https://img.shields.io/badge/-asifsaho.me-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/asifsaho" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
