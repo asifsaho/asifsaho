@@ -1,6 +1,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A6F72EDA&width=435&lines=Peace+be+upon+you...+%F0%9F%91%8B%F0%9F%8F%BC" alt="Typing SVG" /></a>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+		"- ⚡ Quick bio:":                    "Frontend Developer, Love React JS, TypeScript, Nest JS and Open-source, From Berlin Germany",
+		"- 🔭 I’m currently working with":      "Akelius Technology GmbH",
+		"- 🌱 I’m currently learning":        "Node JS, Nest JS, Postgres, TypeORM",
+		"- 👯 I’m looking to collaborate on": "React JS, TypeScript, Nest JS Projects",
+    
+    <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -16,7 +21,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/asifsaho">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=asifsaho&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=asifsaho&layout=compact&langs_count=8&theme=algolia"/>
 </a>
