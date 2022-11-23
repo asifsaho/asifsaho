@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A6F72EDA&width=435&lines=Peace+be+upon+you...+%F0%9F%91%8B%F0%9F%8F%BC" alt="Typing SVG" /></a>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_300_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 - ⚡ Quick bio:                      Frontend Developer, Love React JS, TypeScript, Nest JS and Open-source, From Berlin Germany
 - 🔭 I’m currently working with:    Akelius Technology GmbH
