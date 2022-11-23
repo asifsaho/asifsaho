@@ -26,7 +26,7 @@
     
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=asifsaho&layout=compact&langs_count=8&theme=algolia"/>|
     
-<img src="https://github-readme-stats.vercel.app/api?username=jaydeep-yadav&&show_icons=true&count_private=true&theme=algolia">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=asifsaho&theme=blueberry_duo"/>
+<img src="https://github-readme-stats.vercel.app/api?username=asifsaho&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=asifsaho&theme=blueberry_duo"/>
 
 ### 😜 Here's a Joke for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
